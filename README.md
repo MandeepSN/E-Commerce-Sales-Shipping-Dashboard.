@@ -60,12 +60,6 @@ The dashboard includes:
 - Analytical Thinking
 - Data Automation 
 
----
-
-## Dashboard Preview
-
-### Main Dashboard
-![Dashboard Preview](screenshots/dashboard-overview.png)
 
 ---
 
